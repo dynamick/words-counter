@@ -24,7 +24,11 @@ Prima di tutto, configura il progetto.
 
 ### a. Copia il progetto
 
-Installa il codice nella cartella `words-counter/` tramite copia o clonando il progetto via git,
+Installa il codice nella cartella `words-counter/` tramite copia o clonando il progetto via git
+
+```
+git clone https://github.com/dynamick/words-counter.git
+```
 
 ### b. Entra nella cartella
 
